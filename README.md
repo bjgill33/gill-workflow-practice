@@ -1,2 +1,2 @@
-# gill-workflow-practice
-A sample of using workflow
+# gill-actions-workflow-practice
+A sample of using actions workflow in GitHub
