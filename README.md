@@ -3,7 +3,7 @@ A sample of using actions workflow in GitHub
 
 ## Steps using github on laptop and then commit to desktop github
 1. Clone repository to laptop
-- example: path\to\directory> **git clone (respository url)**
+- example: path\to\directory> **git clone https://github.com/bjgill33/gill-workflow-practice.git**
 
 2. Make the changes you need to your file on your local machine
 
