@@ -18,6 +18,8 @@ A sample of using actions workflow in GitHub
 
 6. Push the commit
 - example: path\to\directory> **git push origin main**
+- **note:** this commits to the main branch so **be careful**
+- to push to a working branch use: **git push origin *branch-name*** 
 
 7. The repo on github.com should now match the repo on your local machine.
 
