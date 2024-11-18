@@ -23,6 +23,6 @@ jobs:
     # What does the cow say?
         text: "MOOOOOOOOOOOOOOOO"
     # Color of your cow
-        color: magenta
+        color: blue
            
       
